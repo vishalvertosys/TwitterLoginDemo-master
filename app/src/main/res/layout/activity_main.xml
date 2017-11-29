@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="importcontact.com.twitterlogindemo.MainActivity">
+
+    <com.twitter.sdk.android.core.identity.TwitterLoginButton
+        android:id="@+id/login_button"
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_margin="10dp"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:text="Move to WebView"
+        android:layout_below="@+id/login_button"
+        android:layout_centerHorizontal="true"
+        android:background="#ffccee"
+        />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_margin="10dp"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:text="Pay online"
+        android:layout_below="@+id/button"
+        android:layout_centerHorizontal="true"
+        android:background="#ffccee"
+        />
+
+</RelativeLayout>

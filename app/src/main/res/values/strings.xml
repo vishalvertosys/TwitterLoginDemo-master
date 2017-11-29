@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TwitterLoginDemo</string>
+    <string name="twitter_consumer_key" translatable="false">RIuPUZcXIeja8tWcpmS3Livwc</string>
+    <string name="twitter_consumer_secret" translatable="false">IlVupbW525OG0rUVdAsqAs6lyQ0wzmMtJ7akmGOtF5XpjRJo1G</string>
+    <string name="com.stripe.publishable_key" translatable="false">pk_test_baX7BM9v88EV3MD9XQ7VZHdV</string>
+</resources>

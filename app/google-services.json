@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "836503618787",
+    "firebase_url": "https://twitterlogin-6f6a6.firebaseio.com",
+    "project_id": "twitterlogin-6f6a6",
+    "storage_bucket": "twitterlogin-6f6a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836503618787:android:dcc4c117aec0afb7",
+        "android_client_info": {
+          "package_name": "importcontact.com.twitterlogindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836503618787-leqkmbah6uu76ggkt86bs8fnfbin9qu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "importcontact.com.twitterlogindemo",
+            "certificate_hash": "db2945572d9eeb7fe6b24eb1b1d8dfcad939e338"
+          }
+        },
+        {
+          "client_id": "836503618787-n6un4mr9pkl8jciqsoc9umhvkru5qj1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmcWO34npOK-toaaVIfFzw75SUgHoq7oM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836503618787-n6un4mr9pkl8jciqsoc9umhvkru5qj1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
